@@ -31,6 +31,7 @@
   </body>
 </html>
 ```
+```html
 <!-- index.html -->
 <html>
   <body>
